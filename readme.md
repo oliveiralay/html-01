@@ -1,0 +1,1 @@
+Olá esse projeto é um exercício para treinar HTML e CSS.

@@ -1,28 +1,29 @@
 *{padding:0;
 margin: 0; }
 body {
-background-color: white;
+background-color: #CDB5FF;
   }
-  nav{display:flex;
+  nav{display: flex;
 justify-content: space-around;
 align-items: center;
 background-color: white;
-color: black;
-
 }
-ul{
+li{
   margin: 10px;
   border-radius: none;
-  display: flex;
+  
   list-style: none;
   font-family: Arial, Helvetica, sans-serif;
-  display: inline-block
+  display: inline
   
   ;
 }
 main{
   display: flex;
-  justify-content: center;
-  margin:20px;
-  font-family: Arial, Helvetica, sans-serif;
+  justify-content:right;
+  margin:50px;
+  font-family:'arial';
+color: black;
 }
+h1 {color: white;}
+
